@@ -2,4 +2,5 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 data/raw/*.csv
+data/processed/filtered_complaints*.csv
 vector_store/
